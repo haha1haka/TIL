@@ -1,5 +1,11 @@
 # 정리 할것
 
-* UIKit , UIViewController
-* Scene이 도데체 뭔가
-* AppeDelegate 와 SceneDelegate 
+
+
+| Complete | 주제                              |
+| :------: | :-------------------------------- |
+|    ❌     | UIKit, UIVIewController, View계층 |
+|    ❌     | Scene,UIWindow                    |
+|    ❌     | AppDelegate 와 SceneDelegate      |
+|          |                                   |
+
