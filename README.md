@@ -6,10 +6,10 @@
 
 |               | Complete |                                                              |
 | :-----------: | :------- | ------------------------------------------------------------ |
-| 2022년 7월5일 | ✅        | [UIKit, UIVIewController](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/5%EC%9D%BC.md) |
-| 2022년 7월6일 | ✅        | [ios13이후Scene?, UIWindowScene, UIWindow](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/6%EC%9D%BC.md) |
-|               | ✅        | [SceneDelegate](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/6%EC%9D%BC.md) |
-| 2022년 7월7일 | ✅        | [UIKit 매소드 정리](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/7%EC%9D%BC.md) |
+| 2022년 7월5일 | ✅        | [UIKit, UIVIewController](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220705TIL.md) |
+| 2022년 7월6일 | ✅        | [ios13이후Scene?, UIWindowScene, UIWindow](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220706TIL.md) |
+|               | ✅        | [SceneDelegate](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220706TIL.md) |
+| 2022년 7월7일 | ✅        | [UIKit 매소드 정리](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220707TIL.md) |
 
 <br/><br/><br/><br/>
 
@@ -18,6 +18,4 @@
 |               | compete |                                 |
 | ------------- | ------- | ------------------------------- |
 | 2022년7월11일 | ❌       | UINavigationViewController 역할 |
-|               |         |                                 |
-|               |         |                                 |
 
