@@ -18,4 +18,5 @@
 |               | compete |                                 |
 | ------------- | ------- | ------------------------------- |
 | 2022년7월11일 | ❌       | UINavigationViewController 역할 |
+| 2022년7월13일 | ❌       | DateFormatter                   |
 
