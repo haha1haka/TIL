@@ -14,14 +14,31 @@
 
 ## 2주차
 
-|               | compete |                                                              |
-| ------------- | ------- | ------------------------------------------------------------ |
-| 2022년7월11일 | ❌       | UINavigationViewController 역할                              |
-| 2022년7월12일 | ✅       | [UIAlertController코드](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220712TIL.md) |
-| 2022년7월13일 | ✅       | [DateFormatter, Calendar, Date](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220713TIL.md) |
-| 2022년7월15일 | ✅       | [SandBox, UserDefaults](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220715TIL.md) |
+|               | Complete |                                                              |
+| ------------- | -------- | ------------------------------------------------------------ |
+| 2022년7월11일 | ❌        | UINavigationViewController 역할                              |
+| 2022년7월12일 | ✅        | [UIAlertController코드](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220712TIL.md) |
+| 2022년7월13일 | ✅        | [DateFormatter, Calendar, Date](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220713TIL.md) |
+| 2022년7월15일 | ✅        | [SandBox, UserDefaults](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220715TIL.md) |
 
 <br/><br/><br/><br/>
+
+
+
+## 3주차
+
+|               | Complete |               |
+| ------------- | -------- | ------------- |
+| 2022년7월18일 | ✅        | TableView실습 |
+|               |          |               |
+|               |          |               |
+|               |          |               |
+
+
+
+
+
+
 
 ## 한눈에 보기
 
