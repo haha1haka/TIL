@@ -29,14 +29,14 @@
 
 |               | Complete |                                                              |
 | ------------- | -------- | ------------------------------------------------------------ |
-| 2022년7월18일 | ✅        | TableView실습                                                |
-| 2022년7월19일 | ✅        | 테이블뷰 코드계선(with enum, CaseIterable+ indexPath의 이해)<br />TableViewCustomCell |
-| 2022년7월20일 | ✅        | 데이터를 객체로(struct) 담아서 활용하기<br />**CollectionView**, **UICollectionViewLayout** |
+| 2022년7월18일 | ✅        | [TableView실습](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220718TIL.md) |
+| 2022년7월19일 | ✅        | [테이블뷰 코드계선(with enum, CaseIterable+ indexPath의 이해)<br />TableViewCustomCell](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220719TIL.md) |
+| 2022년7월20일 | ✅        | [데이터를 객체로(struct) 담아서 활용하기<br />**CollectionView**, **UICollectionViewLayout**](https://github.com/haha1haka/TIL/blob/main/2022%EB%85%847%EC%9B%94/20220720TIL.md) |
 |               |          |                                                              |
 
 
 
-
+<br/><br/><br/><br/>
 
 
 
